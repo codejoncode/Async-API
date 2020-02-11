@@ -1,5 +1,4 @@
 ﻿using Books.Api.Entities;
-using Books.Api.Entitites;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
